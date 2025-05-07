@@ -29,7 +29,7 @@ A powerful IT support assistant that combines Retrieval-Augmented Generation (RA
   - Microservices architecture
   - Easy scaling and maintenance
 
-## 🚀 Prerequisites
+##  Prerequisites
 
 - Docker and Docker Compose
 - NVIDIA GPU (recommended for Ollama)
@@ -37,7 +37,7 @@ A powerful IT support assistant that combines Retrieval-Augmented Generation (RA
 - At least 8GB RAM
 - 20GB free disk space
 
-## 🛠️ Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
@@ -59,7 +59,7 @@ OLLAMA_PORT=11434
 docker-compose up -d
 ```
 
-## 📊 Service Architecture
+##  Service Architecture
 
 The system consists of four main services:
 
